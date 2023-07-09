@@ -57,6 +57,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://sequelize.org/docs/v6/getting-started/"><img align="left" alt="Sequelize" width="36px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" /></a></p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://docs.nestjs.com/"><img align="left" alt="nestjs" width="32px" src="https://docs.nestjs.com/assets/logo-small.svg" style="max-width: 100%;"></a></p>
+
 <p></p>
 </div>
 
