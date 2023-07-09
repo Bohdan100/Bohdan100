@@ -59,9 +59,8 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://docs.nestjs.com/"><img align="left" alt="nestjs" width="32px" src="https://docs.nestjs.com/assets/logo-small.svg" style="max-width: 100%;"></a></p>
 </div>
 
-###
+### My statistics
 
-<!-- My statistics -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdan100&show_icons=true&locale=en&layout=compact" alt="bohdan100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan100&show_icons=true&locale=en" alt="bohdan100" /></p>
