@@ -52,16 +52,16 @@ My Backend stack and Tools ✨:
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://mongoosejs.com/docs/"><img align="left" alt="Mongoose" width="36px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" style="max-width: 100%;"/></a></p>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://docs.nestjs.com/"><img align="left" alt="nestjs" width="32px" src="https://docs.nestjs.com/assets/logo-small.svg" style="max-width: 100%;"></a></p>
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://mariadb.com/kb/en/documentation/"><img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a></p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://sequelize.org/docs/v6/getting-started/"><img align="left" alt="Sequelize" width="36px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" /></a></p>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://docs.nestjs.com/"><img align="left" alt="nestjs" width="32px" src="https://docs.nestjs.com/assets/logo-small.svg" style="max-width: 100%;"></a></p>
-
 <p></p>
 </div>
 
-<h3 align="left">y statistics 📉:</h3>
+<h3 align="left">My statistics 📉:</h3>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdan100&show_icons=true&locale=en&layout=compact" alt="bohdan100" /></p>
