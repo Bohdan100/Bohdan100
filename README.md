@@ -41,7 +41,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"/></a></p>
 </div>
 
-### My Backend stack and Tools ✨:
+My Backend stack and Tools ✨:
 
 <div>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/docs"><img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"/></a></p>
@@ -61,7 +61,7 @@
 <p></p>
 </div>
 
-### My statistics 📉:
+<h3 align="left">y statistics 📉:</h3>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdan100&show_icons=true&locale=en&layout=compact" alt="bohdan100" /></p>
