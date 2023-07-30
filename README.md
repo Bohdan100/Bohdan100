@@ -7,7 +7,7 @@
 - 📫 How to contact me: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>
 
-- 📄 Information about my skills and experience: <a target="blank" rel="noopener noreferrer" href="https://bohdan100.github.io/CV/">Сlick to see my CV</a>
+- 📄 Information about my skills and experience: <a target="blank" rel="noopener noreferrer" href="https://portfolio-bohdan100.vercel.app/">Сlick to see my CV</a>
 
 ---
 
