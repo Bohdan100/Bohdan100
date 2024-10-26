@@ -26,22 +26,16 @@
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/"><img align="center" alt="JDBC" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Flyway -->
   <a target="_blank" rel="noopener noreferrer" href="https://flywaydb.org"><img align="center" alt="Flyway" src="https://www.vectorlogo.zone/logos/flywaydb/flywaydb-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- MySQL 1 -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/"><img align="center" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- MySQL 2 -->
+  <!-- MySQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://mariadb.com/kb/en/documentation/"><img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- PostgreSQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Sequelize -->
   <a target="_blank" rel="noopener noreferrer" href="https://sequelize.org/docs/v6/getting-started/"><img align="center" alt="Sequelize" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-
-  <!-- MongoDB 1 -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"><img align="center" alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- MongoDB 2 -->
+  <!-- MongoDB -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"><img align="center" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Mongoose -->
   <a target="_blank" rel="noopener noreferrer" href="https://mongoosejs.com/docs/"><img align="center" alt="Mongoose" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" height="40" width="40"/></a>&nbsp;&nbsp;
-  
   <!-- Gradle -->
   <a target="_blank" rel="noopener noreferrer" href="https://gradle.org"><img align="center" alt="Gradle" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Maven -->
@@ -50,15 +44,28 @@
   <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/"><img align="center" alt="JUnit" src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- CI/CD -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.atlassian.com/continuous-delivery"><img align="center" alt="CI/CD" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- Postman -->
-  <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/"><img align="center" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40"></a>&nbsp;&nbsp;
-  <!-- GraphQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://graphql.org"><img align="center" alt="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- Git -->
-  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc"><img align="center" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- GitHub -->
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com"><img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/></a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;
+
+---
+
+<h3 align="left">My IDE and auxiliary programs⚡:</h3>
+<p align="left">
+<!-- IntelliJ IDEA -->
+<a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+<!-- VS Code -->
+<a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" width="40"/></a>
+<!-- Postman -->
+<a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/"><img align="center" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40"></a>&nbsp;&nbsp;
+<!-- GraphQL -->
+<a target="_blank" rel="noopener noreferrer" href="https://graphql.org"><img align="center" alt="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+<!-- Git -->
+<a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc"><img align="center" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+<!-- GitHub -->
+<a target="_blank" rel="noopener noreferrer" href="https://github.com"><img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/></a>&nbsp;&nbsp;
+</p>&nbsp;&nbsp;
+
+---
+
 <h3 align="left">My Frontend stack and Tools ✨:</h3> 
 
 <p align="left">
@@ -72,7 +79,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" width="40"/></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" width="40"/></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/documentation/"><img align="center" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="40" width="40"/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" width="40"/></a>
 </p>
 
 ---
