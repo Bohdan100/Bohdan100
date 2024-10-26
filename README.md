@@ -27,7 +27,7 @@
   <!-- Flyway -->
   <a target="_blank" rel="noopener noreferrer" href="https://flywaydb.org"><img align="center" alt="Flyway" src="https://flywaydb.org/assets/flyway-logo-red-2x.png" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- MySQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://mariadb.com/kb/en/documentation/"><img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/"><img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- PostgreSQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Sequelize -->
