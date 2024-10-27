@@ -17,10 +17,10 @@
     <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
-    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="60" width="70"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="55" width="70"/></a>&nbsp;&nbsp;
   <!-- Hibernate -->
   <a target="_blank" rel="noopener noreferrer" href="https://hibernate.org">
-    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="60" width="70"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="55" width="70"/></a>&nbsp;&nbsp;
   <!-- Tomcat, Servlets -->
   <a target="_blank" rel="noopener noreferrer" href="http://tomcat.apache.org/">
     <img align="center" alt="Apache Tomcat" src="icons-svg/backend/tomcat-title.svg" height="60" width="80"/></a>&nbsp;&nbsp;
@@ -29,7 +29,7 @@
     <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="50" width="40"/></a>&nbsp;&nbsp;
   <!-- JDBC -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
-    <img align="center" alt="JDBC" src="icons-svg/backend/jdbc.png" height="80" width="80"/></a>&nbsp;&nbsp;
+    <img align="center" alt="JDBC" src="icons-svg/backend/jdbc.png" height="70" width="70"/></a>&nbsp;&nbsp;
   <!-- MySQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/">
     <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
