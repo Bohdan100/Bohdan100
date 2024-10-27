@@ -105,10 +105,10 @@
     <img align="center" alt="HTML5" src="icons-svg/frontend/html5-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
   <!-- CSS3 -->
   <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="center" alt="CSS3" src="icons-svg/frontend/css-title-horizontal.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="CSS3" src="icons-svg/frontend/css-title-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- Sass -->
   <a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/documentation/">
-    <img align="center" alt="Sass" src="icons-svg/frontend/sass-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Sass" src="icons-svg/frontend/sass-icon.svg" height="35" width="60"/></a>&nbsp;&nbsp;
 </p>
 
 ---
