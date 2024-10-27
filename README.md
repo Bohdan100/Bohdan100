@@ -16,27 +16,27 @@
 <p align="left">
  <!-- Java -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/">
-    <img align="center" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
-    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- Hibernate -->
   <a target="_blank" rel="noopener noreferrer" href="https://hibernate.org">
-    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- Apache Tomcat, Servlets -->
   <a target="_blank" rel="noopener noreferrer" href="http://tomcat.apache.org/">
-    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/apache_tomcat-title.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/apache_tomcat-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
     <!-- JDBC -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
-    <img align="center" alt="JDBC" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="JDBC" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- Flyway -->
-  <a target="_blank" rel="noopener noreferrer" href="icons-svg/backend/flyway-icon.svg">
-    <img align="center" alt="Flyway" src="https://flywaydb.org/assets/flyway-logo-red-2x.png" height="40" width="40"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://documentation.red-gate.com/flyway">
+    <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- MySQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/">
-    <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- PostgreSQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- MongoDB -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/">
     <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="40" width="40"/></a>&nbsp;&nbsp;
@@ -44,10 +44,6 @@
   <a target="_blank" rel="noopener noreferrer" href="https://gradle.org"><img align="center" alt="Gradle" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Maven -->
   <a target="_blank" rel="noopener noreferrer" href="https://maven.apache.org"><img align="center" alt="Maven" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- JUnit -->
-  <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/"><img align="center" alt="JUnit" src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- CI/CD -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.atlassian.com/continuous-delivery"><img align="center" alt="CI/CD" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;
 
 ---
@@ -58,6 +54,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
 <!-- VS Code -->
 <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" width="40"/></a>&nbsp;&nbsp;
+<!-- JUnit -->
+  <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/"><img align="center" alt="JUnit" src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+  <!-- CI/CD -->
+  <a target="_blank" rel="noopener noreferrer" href="https://www.atlassian.com/continuous-delivery"><img align="center" alt="CI/CD" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
 <!-- Postman -->
 <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/"><img align="center" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40"></a>&nbsp;&nbsp;
 <!-- GraphQL -->
