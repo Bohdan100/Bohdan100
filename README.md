@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm Bohdan 👋</h1>
 
-- 🌱 I’m Backend developer
-- 🔭 I’m working with backend projects (Java), but I’m also understand in frontend 
-- 👯 I'm interested in a developer position
+- 🖥️ I’m Backend developer
+- ⚙️ I’m working with backend projects (Java), but I’m also understand in frontend 
+- 👯 I'm interested in a Backend developer position
 
-- 📫 How to contact me: <a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>
+- 📧 How to contact me:&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="icons-svg/contacts/linkedIn.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info">
+  <img align="center" src="icons-svg/contacts/telegram.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>&nbsp;&nbsp;
 
 - 📄 Information about my skills and experience: <a target="blank" rel="noopener noreferrer" href="https://portfolio-bohdan100.vercel.app/">Сlick to see my CV</a>
 ---
@@ -48,7 +50,7 @@
 </p>
 
 ---
-<h3 align="left">My IDE and auxiliary programs 🔨:</h3>
+<h3 align="left">My IDE and auxiliary programs 🔧:</h3>
 <p align="left">
   <!-- IntelliJ IDEA -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/">
@@ -78,7 +80,7 @@
 
 ---
 
-<h3 align="left">My Frontend stack and Tools ✨:</h3> 
+<h3 align="left">My Frontend stack and Tools 👨🏻‍💻:</h3> 
 
 <p align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs"><img align="center" alt="Next.js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2quKRX2nRdpil6la8wQNSyyPWo9rJ5PyAuA&usqp=CAU" height="40" width="40"></a>&nbsp;&nbsp; 
@@ -95,12 +97,13 @@
 
 ---
 
-<h3 align="left">My Statistics 📉:</h3>
-
+<!-- <h3 align="left">My Statistics 📉:</h3>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdan100&show_icons=true&locale=en&layout=compact" alt="bohdan100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan100&show_icons=true&locale=en" alt="bohdan100" /></p>
-</div>
+</div> -->
+
+<h3 align="left">My repositories 🗃️:</h3>
 
 

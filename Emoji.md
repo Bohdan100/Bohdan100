@@ -22,3 +22,8 @@ Emoji | Meaning
 🍎 | Mac OS
 🐧 | Linux 
 🏁 | Windows
+
+
+🌱
+🔭
+🌐
