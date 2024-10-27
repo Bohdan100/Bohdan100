@@ -8,64 +8,86 @@
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>
 
 - 📄 Information about my skills and experience: <a target="blank" rel="noopener noreferrer" href="https://portfolio-bohdan100.vercel.app/">Сlick to see my CV</a>
-
 ---
-
 <h3 align="left">My Backend stack and Tools 👨‍💻:</h3>
 
 <p align="left">
  <!-- Java -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/">
-    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="40"/>
+  </a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
-    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="50" width="60"/>
+  </a>&nbsp;&nbsp;
   <!-- Hibernate -->
   <a target="_blank" rel="noopener noreferrer" href="https://hibernate.org">
-    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="50" width="60"/>
+  </a>&nbsp;&nbsp;
   <!-- Tomcat, Servlets -->
   <a target="_blank" rel="noopener noreferrer" href="http://tomcat.apache.org/">
-    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/tomcat-title.svg" height="60" width="40"/></a>&nbsp;&nbsp;
-    <!-- JDBC -->
-  <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
-    <img align="center" alt="JDBC" src="icons-svg/backend/jdbc.png" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/tomcat-title.svg" height="60" width="70"/>
+  </a>&nbsp;&nbsp;
   <!-- Flyway -->
   <a target="_blank" rel="noopener noreferrer" href="https://documentation.red-gate.com/flyway">
-    <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="60" width="50"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="60" width="50"/>
+  </a>&nbsp;&nbsp;
   <!-- MySQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/">
-    <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="60" width="60"/>
+  </a>&nbsp;&nbsp;
   <!-- PostgreSQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org">
+    <img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="60" width="70"/>
+  </a>&nbsp;&nbsp;
   <!-- MongoDB -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/">
-    <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="50" width="60"/>
+  </a>&nbsp;&nbsp;
   <!-- Gradle -->
-  <a target="_blank" rel="noopener noreferrer" href="https://gradle.org"><img align="center" alt="Gradle" src="icons-svg/backend/gradle-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://gradle.org">
+    <img align="center" alt="Gradle" src="icons-svg/backend/gradle-title.svg" height="40" width="60"/>
+  </a>&nbsp;&nbsp;
   <!-- Maven -->
-  <a target="_blank" rel="noopener noreferrer" href="https://maven.apache.org"><img align="center" alt="Maven" src="icons-svg/backend/maven-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://maven.apache.org">
+    <img align="center" alt="Maven" src="icons-svg/backend/maven-title.svg" height="40" width="60"/>
+  </a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;
-
 ---
-
 <h3 align="left">My IDE and auxiliary programs 🔨:</h3>
 <p align="left">
-<!-- IntelliJ IDEA -->
-<a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-<!-- VS Code -->
-<a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" width="40"/></a>&nbsp;&nbsp;
-<!-- JUnit -->
-  <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/"><img align="center" alt="JUnit" src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-  <!-- CI/CD -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.atlassian.com/continuous-delivery"><img align="center" alt="CI/CD" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-<!-- Postman -->
-<a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/"><img align="center" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40"></a>&nbsp;&nbsp;
-<!-- GraphQL -->
-<a target="_blank" rel="noopener noreferrer" href="https://graphql.org"><img align="center" alt="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-<!-- Git -->
-<a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc"><img align="center" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
-<!-- GitHub -->
-<a target="_blank" rel="noopener noreferrer" href="https://github.com"><img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/></a>&nbsp;&nbsp;
+  <!-- IntelliJ IDEA -->
+  <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/">
+    <img align="center" alt="IntelliJ IDEA" src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <!-- Jenkins, CI/CD -->
+  <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/doc/">
+    <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-official-title.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <!-- VS Code -->
+  <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
+    <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <!-- JUnit -->
+  <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/">
+    <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <!-- Postman -->
+  <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/">
+    <img align="center" alt="Postman" src="icons-svg/additional-programs-ide/postman-title.svg" height="40" width="40">
+  </a>&nbsp;&nbsp;
+  <!-- GraphQL -->
+  <a target="_blank" rel="noopener noreferrer" href="https://graphql.org">
+    <img align="center" alt="GraphQL" src="icons-svg/additional-programs-ide/graphql-title.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <!-- Git -->
+  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc">
+    <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com">
+    <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;
 
 ---
@@ -94,3 +116,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan100&show_icons=true&locale=en" alt="bohdan100" /></p>
 </div>
+
+
+<!-- JDBC -->
+  <!-- <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
+    <img align="center" alt="JDBC" src="icons-svg/backend/jdbc.png" height="40" width="40"/></a>&nbsp;&nbsp; -->
