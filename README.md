@@ -42,7 +42,7 @@
   <!-- Maven -->
   <a target="_blank" rel="noopener noreferrer" href="https://maven.apache.org">
     <img align="center" alt="Maven" src="icons-svg/backend/maven-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
-</p>&nbsp;&nbsp;
+</p>
 
 ---
 <h3 align="left">My IDE and auxiliary programs 🔨:</h3>
@@ -52,10 +52,10 @@
     <img align="center" alt="IntelliJ IDEA" src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" height="40" width="50"/></a>&nbsp;&nbsp;
   <!-- VS Code -->
   <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
-    <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="35" width="35"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="30" width="30"/></a>&nbsp;&nbsp;
   <!-- JUnit -->
   <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/">
-    <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="35" width="35"/></a>&nbsp;&nbsp;
+    <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="30" width="30"/></a>&nbsp;&nbsp;
   <!-- Jenkins, CI/CD -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/doc/">
     <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-title.svg" height="50" width="90"/></a>&nbsp;&nbsp;
@@ -70,8 +70,8 @@
     <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="70"/></a>&nbsp;&nbsp;
   <!-- GitHub -->
   <a target="_blank" rel="noopener noreferrer" href="https://github.com">
-    <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/></a>&nbsp;&nbsp;
-</p>&nbsp;&nbsp;
+    <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="30" width="30"/></a>&nbsp;&nbsp;
+</p>
 
 ---
 
