@@ -25,21 +25,21 @@
     <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
   <!-- Apache Tomcat, Servlets -->
   <a target="_blank" rel="noopener noreferrer" href="http://tomcat.apache.org/">
-    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/apache_tomcat-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/apache_tomcat-title.svg" height="60" width="40"/></a>&nbsp;&nbsp;
     <!-- JDBC -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
     <img align="center" alt="JDBC" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- Flyway -->
   <a target="_blank" rel="noopener noreferrer" href="https://documentation.red-gate.com/flyway">
-    <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- MySQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/">
     <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
   <!-- PostgreSQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- MongoDB -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/">
-    <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
   <!-- Gradle -->
   <a target="_blank" rel="noopener noreferrer" href="https://gradle.org"><img align="center" alt="Gradle" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Maven -->
