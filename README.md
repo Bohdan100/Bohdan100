@@ -11,11 +11,11 @@
 
 ---
 
-<h3 align="left">My Backend stack and Tools ⚡:</h3>
+<h3 align="left">My Backend stack and Tools 👨‍💻:</h3>
 
 <p align="left">
  <!-- Java -->
-  <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/"><img align="center" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/"><img align="center" alt="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html"><img align="center" alt="Spring Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- Hibernate -->
@@ -48,12 +48,14 @@
 
 ---
 
-<h3 align="left">My IDE and auxiliary programs⚡:</h3>
+<h3 align="left">My IDE and auxiliary programs 🔨:</h3>
 <p align="left">
 <!-- IntelliJ IDEA -->
-<a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/"><img align="center" alt="IntelliJ IDEA" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/">
+  <img align="center" alt="IntelliJ IDEA" src="icons-svg/jetbrains-icon.svg" height="40" width="40"/>
+</a>&nbsp;&nbsp;
 <!-- VS Code -->
-<a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" width="40"/></a>&nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" width="40"/></a>&nbsp;&nbsp;
 <!-- Postman -->
 <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/"><img align="center" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40"></a>&nbsp;&nbsp;
 <!-- GraphQL -->
