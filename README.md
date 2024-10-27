@@ -16,13 +16,13 @@
 <p align="left">
  <!-- Java -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/">
-    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
-    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
   <!-- Hibernate -->
   <a target="_blank" rel="noopener noreferrer" href="https://hibernate.org">
-    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
   <!-- Apache Tomcat, Servlets -->
   <a target="_blank" rel="noopener noreferrer" href="http://tomcat.apache.org/">
     <img align="center" alt="Apache Tomcat" src="icons-svg/backend/apache_tomcat-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
