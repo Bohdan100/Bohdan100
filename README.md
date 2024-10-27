@@ -71,7 +71,7 @@
     <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="70"/></a>&nbsp;&nbsp;
   <!-- GitHub -->
   <a target="_blank" rel="noopener noreferrer" href="https://github.com">
-    <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="30" width="30"/></a>&nbsp;&nbsp;
+    <img align="center" alt="GitHub" src="icons-svg/additional-programs-ide/github.svg" height="30" width="30"/></a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -105,7 +105,7 @@
     <img align="center" alt="HTML5" src="icons-svg/frontend/html5-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
   <!-- CSS3 -->
   <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="center" alt="CSS3" src="icons-svg/frontend/css-title-vertical.svg" height="60" width="50"/></a>&nbsp;&nbsp;
+    <img align="center" alt="CSS3" src="icons-svg/frontend/css-title-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- Sass -->
   <a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/documentation/">
     <img align="center" alt="Sass" src="icons-svg/frontend/sass-icon.svg" height="35" width="55"/></a>&nbsp;&nbsp;
