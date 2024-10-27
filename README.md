@@ -5,9 +5,9 @@
 - 👯 I'm interested in a Backend developer position
 
 - 📧 How to contact me:&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="icons-svg/contacts/linkedIn.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="icons-svg/contacts/linkedIn.svg" alt="bohdan-orlovskiy" height="20" width="20" /></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info">
-  <img align="center" src="icons-svg/contacts/telegram.svg" alt="bohdan-orlovskiy" height="30" width="30" /></a>&nbsp;&nbsp;
+  <img align="center" src="icons-svg/contacts/telegram.svg" alt="bohdan-orlovskiy" height="20" width="20" /></a>&nbsp;&nbsp;
 
 - 📄 Information about my skills and experience: <a target="blank" rel="noopener noreferrer" href="https://portfolio-bohdan100.vercel.app/">Сlick to see my CV</a>
 ---
