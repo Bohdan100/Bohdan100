@@ -14,7 +14,7 @@
 <p align="left">
  <!-- Java -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/">
-    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="45"/></a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
     <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="55" width="70"/></a>&nbsp;&nbsp;
@@ -41,10 +41,10 @@
     <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
   <!-- Gradle -->
   <a target="_blank" rel="noopener noreferrer" href="https://gradle.org">
-    <img align="center" alt="Gradle" src="icons-svg/backend/gradle-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Gradle" src="icons-svg/backend/gradle-title.svg" height="55" width="65"/></a>&nbsp;&nbsp;
   <!-- Maven -->
   <a target="_blank" rel="noopener noreferrer" href="https://maven.apache.org">
-    <img align="center" alt="Maven" src="icons-svg/backend/maven-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Maven" src="icons-svg/backend/maven-title.svg" height="55" width="65"/></a>&nbsp;&nbsp;
 </p>
 
 ---
