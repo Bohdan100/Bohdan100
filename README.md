@@ -50,24 +50,24 @@
   <!-- IntelliJ IDEA -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/">
     <img align="center" alt="IntelliJ IDEA" src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" height="50" width="50"/></a>&nbsp;&nbsp;
-  <!-- Jenkins, CI/CD -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/doc/">
-    <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-official-title.svg" height="50" width="70"/></a>&nbsp;&nbsp;
   <!-- VS Code -->
   <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
     <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="40" width="40"/></a>&nbsp;&nbsp;
   <!-- JUnit -->
   <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/">
     <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="40" width="40"/></a>&nbsp;&nbsp;
+  <!-- Jenkins, CI/CD -->
+  <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/doc/">
+    <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-official-title.svg" height="40" width="80"/></a>&nbsp;&nbsp;
   <!-- Postman -->
   <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/">
-    <img align="center" alt="Postman" src="icons-svg/additional-programs-ide/postman-title.svg" height="40" width="60"></a>&nbsp;&nbsp;
+    <img align="center" alt="Postman" src="icons-svg/additional-programs-ide/postman-title.svg" height="50" width="70"></a>&nbsp;&nbsp;
   <!-- GraphQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://graphql.org">
-    <img align="center" alt="GraphQL" src="icons-svg/additional-programs-ide/graphql-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="GraphQL" src="icons-svg/additional-programs-ide/graphql-title.svg" height="50" width="70"/></a>&nbsp;&nbsp;
   <!-- Git -->
   <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc">
-    <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
+    <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="70"/></a>&nbsp;&nbsp;
   <!-- GitHub -->
   <a target="_blank" rel="noopener noreferrer" href="https://github.com">
     <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/></a>&nbsp;&nbsp;
