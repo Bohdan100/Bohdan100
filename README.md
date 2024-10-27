@@ -14,12 +14,10 @@
 <p align="left">
  <!-- Java -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/">
-    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="60"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
   <!-- Spring Boot -->
   <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
-    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="50" width="60"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
   <!-- Hibernate -->
   <a target="_blank" rel="noopener noreferrer" href="https://hibernate.org">
     <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="50" width="60"/>
@@ -59,35 +57,33 @@
 <p align="left">
   <!-- IntelliJ IDEA -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/">
-    <img align="center" alt="IntelliJ IDEA" src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" height="60" width="60"/>
+    <img align="center" alt="IntelliJ IDEA" src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" height="50" width="50"/>
   </a>&nbsp;&nbsp;
   <!-- Jenkins, CI/CD -->
   <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/doc/">
-    <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-official-title.svg" height="60" width="60"/>
+    <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-official-title.svg" height="40" width="60"/>
   </a>&nbsp;&nbsp;
   <!-- VS Code -->
   <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
-    <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="60" width="60"/>
+    <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="40" width="40"/>
   </a>&nbsp;&nbsp;
   <!-- JUnit -->
   <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/">
-    <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="60" width="60"/>
+    <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="40" width="40"/>
   </a>&nbsp;&nbsp;
   <!-- Postman -->
-  <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/">
-    <img align="center" alt="Postman" src="icons-svg/additional-programs-ide/postman-title.svg" height="60" width="60">
+  <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/"><img align="center" alt="Postman" src="icons-svg/additional-programs-ide/postman-title.svg" height="40" width="60">
   </a>&nbsp;&nbsp;
   <!-- GraphQL -->
   <a target="_blank" rel="noopener noreferrer" href="https://graphql.org">
-    <img align="center" alt="GraphQL" src="icons-svg/additional-programs-ide/graphql-title.svg" height="60" width="60"/>
+    <img align="center" alt="GraphQL" src="icons-svg/additional-programs-ide/graphql-title.svg" height="40" width="60"/>
   </a>&nbsp;&nbsp;
   <!-- Git -->
-  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc">
-    <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="60" width="60"/>
+  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc"><img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="60"/>
   </a>&nbsp;&nbsp;
   <!-- GitHub -->
   <a target="_blank" rel="noopener noreferrer" href="https://github.com">
-    <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="60" width="60"/>
+    <img align="center" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="40" width="40"/>
   </a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;
 
@@ -97,15 +93,15 @@
 
 <p align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs"><img align="center" alt="Next.js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2quKRX2nRdpil6la8wQNSyyPWo9rJ5PyAuA&usqp=CAU" height="" width=""></a>&nbsp;&nbsp; 
-<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"><img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://redux.js.org"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://graphql.org"><img align="center" alt="Apollo GraphQL" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/"><img align="center" alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="" width=""/></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/documentation/"><img align="center" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="" width=""/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"><img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://redux.js.org"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://graphql.org"><img align="center" alt="Apollo GraphQL" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/"><img align="center" alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="60" width="60"/></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/documentation/"><img align="center" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="60" width="60"/></a>&nbsp;&nbsp;
 </p>
 
 ---
