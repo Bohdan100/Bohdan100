@@ -1,4 +1,4 @@
-# Hi there, I'm Bohdan 👋
+<h1 align="center">Hi there, I'm Bohdan 👋</h1> 
 
 ## About Me
 - 🖥️ I’m a **Back-end Developer**.

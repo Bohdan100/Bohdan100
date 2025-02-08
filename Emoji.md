@@ -1,4 +1,12 @@
-## Emoji
+## Technologies
+- **Java** ☕
+- **Spring Boot** 🌱
+- **Kotlin** 🅚
+- **MySQL** 🐬
+- **PostgreSQL** 🐘
+- **MongoDB** 🍃
+
+## Emoji 
 Emoji | Meaning
 ----- | --------
 🤖 | Bot
