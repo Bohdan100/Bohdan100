@@ -1,11 +1,20 @@
-<h1 align="center">Hi there, I'm Bohdan 👋</h1>
+# Hi there, I'm Bohdan 👋
 
-- 🖥️ I’m Backend developer
-- ⚙️ I’m working with backend projects (Java), but I’m also understand in frontend 
-- 👯 I'm interested in a Backend developer position
+## About Me
+- 🖥️ I’m a **Back-end Developer**.
+- ☕️ I specialize in building robust and scalable backend APIs using **Spring Boot** and JVM languages (**Java**, **Kotlin**).
+- 🐬 I work with both **SQL** (MySQL, PostgreSQL, H2) and **NoSQL** (MongoDB) databases.
+- ⚙️ I use **GraphQL** schemas and the **GraphiQL** interface.
+- 👯 I’m interested in collaborating as a **Back-end Developer**.
+- 📧 **How to contact me:**
+    - <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/">
+      <img align="center" src="icons-svg/contacts/linkedIn.svg" alt="LinkedIn" height="20" width="20" />
+  </a>&nbsp;&nbsp;LinkedIn
+    - <a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info">
+      <img align="center" src="icons-svg/contacts/telegram.svg" alt="Telegram" height="20" width="20" />
+  </a>&nbsp;&nbsp;Telegram
 
-- 📧 How to contact me:&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/"><img align="center" src="icons-svg/contacts/linkedIn.svg" alt="bohdan-orlovskiy" height="20" width="20" /></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info"><img align="center" src="icons-svg/contacts/telegram.svg" alt="bohdan-orlovskiy" height="20" width="20" /></a>
-- 📄 Information about my skills and experience: <a target="blank" rel="noopener noreferrer" href="https://portfolio-bohdan100.vercel.app/">Сlick to see my CV</a>
+- 📄 Information about my **skills and experience:** <a target="blank" rel="noopener noreferrer" href="https://portfolio-atpo-git-main-bohdan100s-projects.vercel.app/">Сlick to see my portfoliо</a>
 ---
 <h3 align="left">My Backend stack and Tools 👨‍💻:</h3>
 
