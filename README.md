@@ -1,7 +1,9 @@
-<h1 align="center">
-  Hi there, I'm Bohdan 
-  <img src="gif/giphy.gif" width="30px" alt="GIF">
-</h1>
+<div style="background-color: #2CAAEC; padding: 20px; border-radius: 10px;">
+  <h1 align="center" style="color: #FFFFFF;">
+    Hi there, I'm Bohdan 
+    <img src="gif/giphy.gif" width="30px" alt="GIF">
+  </h1>
+</div>
 
 ## About Me
 
