@@ -6,14 +6,23 @@
 - 🐬 I work with both **SQL** (MySQL, PostgreSQL, H2) and **NoSQL** (MongoDB) databases.
 - ⚙️ I use **GraphQL** schemas and the **GraphiQL** interface.
 - 👯 I’m interested in collaborating as a **Back-end Developer**.
-- 📧 **How to contact me:**
-    - <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/">
-      <img align="center" src="icons-svg/contacts/linkedIn.svg" alt="LinkedIn" height="20" width="20" />
-  </a>&nbsp;&nbsp;LinkedIn
-    - <a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info">
-      <img align="center" src="icons-svg/contacts/telegram.svg" alt="Telegram" height="20" width="20" />
-  </a>&nbsp;&nbsp;Telegram
-
+- 📧 **How to contact me:** 
+  <table>
+    <tr>
+      <td style="vertical-align: top;">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohdan-orlovskiy/">
+          <img align="center" src="icons-svg/contacts/linkedIn.svg" alt="LinkedIn" height="15" width="15" />
+        </a>
+      </td>
+      <td style="vertical-align: top;">LinkedIn</td>
+      <td style="vertical-align: top;">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.t.me/Bogdan_info">
+          <img align="center" src="icons-svg/contacts/telegram.svg" alt="Telegram" height="15" width="15" />
+        </a>
+      </td>
+      <td style="vertical-align: top;">Telegram</td>
+    </tr>
+  </table>
 - 📄 Information about my **skills and experience:** <a target="blank" rel="noopener noreferrer" href="https://portfolio-atpo-git-main-bohdan100s-projects.vercel.app/">Сlick to see my portfoliо</a>
 ---
 <h3 align="left">My Backend stack and Tools 👨‍💻:</h3>
