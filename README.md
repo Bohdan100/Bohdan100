@@ -1,12 +1,16 @@
-<h1 align="center">Hi there, I'm Bohdan 👋</h1> 
+<h1 align="center">
+  Hi there, I'm Bohdan 
+  <img src="gif/giphy.gif" width="30px" alt="GIF">
+</h1>
 
 ## About Me
+
 - 🖥️ I’m a **Back-end Developer**.
 - ☕️ I specialize in building robust and scalable backend APIs using **Spring Boot** and JVM languages (**Java**, **Kotlin**).
 - 🐬 I work with both **SQL** (MySQL, PostgreSQL, H2) and **NoSQL** (MongoDB) databases.
 - ⚙️ I use **GraphQL** schemas and the **GraphiQL** interface.
 - 👯 I’m interested in collaborating as a **Back-end Developer**.
-- 📧 **How to contact me:** 
+- 📧 **How to contact me:**
   <table>
     <tr>
       <td style="vertical-align: top;">
@@ -24,120 +28,202 @@
     </tr>
   </table>
 - 📄 Information about my **skills and experience:** <a target="blank" rel="noopener noreferrer" href="https://portfolio-atpo-git-main-bohdan100s-projects.vercel.app/">Сlick to see my portfoliо</a>
----
-<h3 align="left">My Backend stack and Tools 👨‍💻:</h3>
-
-<p align="left">
- <!-- Java -->
-  <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/en/java/">
-    <img align="center" alt="Java" src="icons-svg/backend/java-vertical.svg" height="60" width="45"/></a>&nbsp;&nbsp;
-  <!-- Spring Boot -->
-  <a target="_blank" rel="noopener noreferrer" href="https://docs.spring.io/spring-boot/index.html">
-    <img align="center" alt="Spring Boot" src="icons-svg/backend/springio-title.svg" height="55" width="70"/></a>&nbsp;&nbsp;
-  <!-- Hibernate -->
-  <a target="_blank" rel="noopener noreferrer" href="https://hibernate.org">
-    <img align="center" alt="Hibernate" src="icons-svg/backend/hibernate-title.svg" height="55" width="70"/></a>&nbsp;&nbsp;
-  <!-- Tomcat, Servlets -->
-  <a target="_blank" rel="noopener noreferrer" href="http://tomcat.apache.org/">
-    <img align="center" alt="Apache Tomcat" src="icons-svg/backend/tomcat-title.svg" height="60" width="80"/></a>&nbsp;&nbsp;
-  <!-- Flyway -->
-  <a target="_blank" rel="noopener noreferrer" href="https://documentation.red-gate.com/flyway">
-    <img align="center" alt="Flyway" src="icons-svg/backend/flyway-icon.svg" height="50" width="40"/></a>&nbsp;&nbsp;
-  <!-- JDBC -->
-  <a target="_blank" rel="noopener noreferrer" href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
-    <img align="center" alt="JDBC" src="icons-svg/backend/jdbc.png" height="70" width="70"/></a>&nbsp;&nbsp;
-  <!-- MySQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://dev.mysql.com/doc/">
-    <img align="center" alt="MySQL" src="icons-svg/backend/mysql-official-title.svg" height="60" width="60"/></a>&nbsp;&nbsp;
-  <!-- PostgreSQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org">
-    <img align="center" alt="PostgreSQL" src="icons-svg/backend/postgresql-vertical.svg" height="50" width="80"/></a>&nbsp;&nbsp;
-  <!-- MongoDB -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/">
-    <img align="center" alt="MongoDB" src="icons-svg/backend/mongodb-title.svg" height="50" width="60"/></a>&nbsp;&nbsp;
-  <!-- Gradle -->
-  <a target="_blank" rel="noopener noreferrer" href="https://gradle.org">
-    <img align="center" alt="Gradle" src="icons-svg/backend/gradle-title.svg" height="55" width="65"/></a>&nbsp;&nbsp;
-  <!-- Maven -->
-  <a target="_blank" rel="noopener noreferrer" href="https://maven.apache.org">
-    <img align="center" alt="Maven" src="icons-svg/backend/maven-title.svg" height="55" width="65"/></a>&nbsp;&nbsp;
-</p>
-
----
-<h3 align="left">My IDE and auxiliary programs 🔧:</h3>
-<p align="left">
-  <!-- IntelliJ IDEA -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/idea/">
-    <img align="center" alt="IntelliJ IDEA" src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" height="40" width="50"/></a>&nbsp;&nbsp;
-  <!-- VS Code -->
-  <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
-    <img align="center" alt="Visual Studio Code" src="icons-svg/additional-programs-ide/VS Code.svg" height="30" width="30"/></a>&nbsp;&nbsp;
-  <!-- JUnit -->
-  <a target="_blank" rel="noopener noreferrer" href="https://junit.org/junit5/">
-    <img align="center" alt="JUnit" src="icons-svg/additional-programs-ide/JUnit.svg" height="30" width="30"/></a>&nbsp;&nbsp;
-  <!-- Jenkins, CI/CD -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/doc/">
-    <img align="center" alt="Jenkins" src="icons-svg/additional-programs-ide/jenkins-title.svg" height="50" width="90"/></a>&nbsp;&nbsp;
-  <!-- Postman -->
-  <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/introduction/overview/">
-    <img align="center" alt="Postman" src="icons-svg/additional-programs-ide/postman-title.svg" height="50" width="70"></a>&nbsp;&nbsp;
-  <!-- GraphQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://graphql.org">
-    <img align="center" alt="GraphQL" src="icons-svg/additional-programs-ide/graphql-title.svg" height="50" width="80"/></a>&nbsp;&nbsp;
-  <!-- Git -->
-  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/doc">
-    <img align="center" alt="Git" src="icons-svg/additional-programs-ide/git-title.svg" height="40" width="70"/></a>&nbsp;&nbsp;
-  <!-- GitHub -->
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com">
-    <img align="center" alt="GitHub" src="icons-svg/additional-programs-ide/github.svg" height="30" width="30"/></a>&nbsp;&nbsp;
-</p>
 
 ---
 
-<h3 align="left">My Frontend stack and Tools 👨🏻‍💻:</h3> 
+### My Backend Stack and Tools 👨‍💻:
 
-<p align="left">
-  <!-- Next.js -->
-  <a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/docs">
-    <img align="center" alt="Next.js" src="icons-svg/frontend/nextjs-title.svg" height="40" width="60"></a>&nbsp;&nbsp;
-  <!-- JavaScript --> 
-  <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img align="center" alt="JavaScript" src="icons-svg/frontend/javascript-icon.svg" height="35" width="35"/></a>&nbsp;&nbsp;
-  <!-- TypeScript -->
-  <a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/">
-    <img align="center" alt="TypeScript" src="icons-svg/frontend/typescriptlang-icon.svg" height="35" width="35"/></a>&nbsp;&nbsp;
-  <!-- React -->
-  <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
-    <img align="center" alt="React" src="icons-svg/frontend/reactjs-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
- <!-- Redux -->
-  <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org">
-    <img align="center" src="icons-svg/frontend/redux-title.svg" alt="Redux" height="40" width="60"/></a>&nbsp;&nbsp;
-  <!-- Apollo Client GraphQL -->
-  <a target="_blank" rel="noopener noreferrer" href="https://graphql.org">
-    <img align="center" alt="Apollo GraphQL" src="icons-svg/frontend/apollographql-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
-  <!-- Firebase -->
-  <a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/">
-    <img align="center" alt="Firebase" src="icons-svg/frontend/firebase-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
-  <!-- HTML5 -->
-  <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img align="center" alt="HTML5" src="icons-svg/frontend/html5-title.svg" height="40" width="60"/></a>&nbsp;&nbsp;
-  <!-- CSS3 -->
-  <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="center" alt="CSS3" src="icons-svg/frontend/css-title-vertical.svg" height="60" width="40"/></a>&nbsp;&nbsp;
-  <!-- Sass -->
-  <a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/documentation/">
-    <img align="center" alt="Sass" src="icons-svg/frontend/sass-icon.svg" height="35" width="55"/></a>&nbsp;&nbsp;
-</p>
+<div align="center">
+<table>
+  <tr>
+<!-- Kotlin -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/kotlin-icon.svg" alt="Kotlin" width="30" height="30"/>
+      <br>Kotlin
+    </td>
+    <!-- Java -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/java-icon.svg" alt="Java" width="30" height="30"/>
+      <br>Java
+    </td>
+    <!-- Spring Boot -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/spring-icon.svg" alt="Spring Boot" width="30" height="30"/>
+      <br>Spring Boot
+    </td>
+    <!-- Hibernate -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/hibernate-icon.svg" alt="Hibernate" width="30" height="30"/>
+      <br>Hibernate
+    </td>
+    <!-- Tomcat, Servlets -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/tomcat-icon.svg" alt="Apache Tomcat" width="30" height="30"/>
+      <br>Tomcat
+    </td>
+    <!-- Flyway -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/flyway-icon.svg" alt="Flyway" width="30" height="30"/>
+      <br>Flyway
+    </td>
+    <!-- JDBC -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/jdbc.png" alt="JDBC" width="30" height="30"/>
+      <br>JDBC
+    </td>
+  </tr>
+  <tr>
+<!-- GraphQL -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/graphql-icon.svg" alt="GraphQL" width="30" height="30"/>
+      <br>GraphQL
+    </td>
+    <!-- MySQL -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/mysql-icon.svg" alt="MySQL" width="30" height="30"/>
+      <br>MySQL
+    </td>
+    <!-- PostgreSQL -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/postgresql-icon.svg" alt="PostgreSQL" width="60" height="30"/>
+      <br>PostgreSQL
+    </td>
+    <!-- MongoDB -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/mongodb-icon.svg" alt="MongoDB" width="30" height="30"/>
+      <br>MongoDB
+    </td>
+    <!-- Firebase -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+      <br>Firebase
+    </td>
+    <!-- Gradle -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/gradle-icon.svg" alt="Gradle" width="30" height="30"/>
+      <br>Gradle
+    </td>
+    <!-- Maven -->
+    <td align="center" width="88">
+      <img src="icons-svg/backend/maven-icon.svg" alt="Maven" width="30" height="30"/>
+      <br>Maven
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-<!-- <h3 align="left">My Statistics 📉:</h3>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdan100&show_icons=true&locale=en&layout=compact" alt="bohdan100" /></p>
+### My IDE and Auxiliary Programs 🔧:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan100&show_icons=true&locale=en" alt="bohdan100" /></p>
-</div> -->
+<div align="center">
+<table>
+  <tr>
+    <!-- IntelliJ IDEA -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" alt="IntelliJ IDEA" width="30" height="30"/>
+      <br>IntelliJ IDEA
+    </td>
+    <!-- VS Code -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/VS Code.svg" alt="VS Code" width="30" height="30"/>
+      <br>VS Code
+    </td>
+    <!-- JUnit -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/JUnit.svg" alt="JUnit" width="30" height="30"/>
+      <br>JUnit
+    </td>
+    <!-- Jenkins, CI/CD -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/>
+      <br>Jenkins
+    </td>
+  </tr>
+  <tr>
+    <!-- Postman -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/postman-icon.svg" alt="Postman" width="30" height="30"/>
+      <br>Postman
+    </td>
+    <!-- Git -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/git-icon.svg" alt="Git" width="30" height="30"/>
+      <br>Git
+    </td>
+    <!-- GitHub -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/github.svg" alt="GitHub" width="30" height="30"/>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+</div>
 
-<h3 align="center">My repositories 🗃️:</h3>
+---
+
+### My Frontend Stack and Tools 👨🏻‍💻:
+
+<div align="center">
+<table>
+  <tr>
+    <!-- Next.js -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/nextjs-icon.svg" alt="Next.js" width="30" height="30"/>
+      <br>Next.js
+    </td>
+    <!-- JavaScript -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/javascript-icon.svg" alt="JavaScript" width="30" height="30"/>
+      <br>JavaScript
+    </td>
+    <!-- TypeScript -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/typescript-icon.svg" alt="TypeScript" width="30" height="30"/>
+      <br>TypeScript
+    </td>
+    <!-- React -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/react-icon.svg" alt="React" width="30" height="30"/>
+      <br>React
+    </td>
+    <!-- Redux -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/redux-icon.svg" alt="Redux" width="30" height="30"/>
+      <br>Redux
+    </td>
+  </tr>
+  <tr>
+    <!-- Apollo Client GraphQL -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/apollographql-icon.svg" alt="Apollo GraphQL" width="30" height="30"/>
+      <br>Apollo
+    </td>
+    <!-- HTML5 -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/html5-icon.svg" alt="HTML5" width="30" height="30"/>
+      <br>HTML5
+    </td>
+    <!-- CSS3 -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/css-title-vertical.svg" alt="CSS3" width="30" height="30"/>
+      <br>CSS3
+    </td>
+    <!-- Sass -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/sass-icon.svg" alt="Sass" width="30" height="30"/>
+      <br>Sass
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align=center> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=My+repositories:+;Explore+my+projects+to+see+my+tech+stack:;" 
+alt="My Repositories" /> 
+</div>
+
 
 

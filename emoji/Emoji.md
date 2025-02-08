@@ -6,6 +6,13 @@
 - **PostgreSQL** 🐘
 - **MongoDB** 🍃
 
+👋
+🌱
+🔭
+🌐
+<h3 align="center">My repositories 🗃️:</h3>
+<!-- <h3 align="left">My Statistics 📉:</h3>
+
 ## Emoji 
 Emoji | Meaning
 ----- | --------
@@ -32,6 +39,3 @@ Emoji | Meaning
 🏁 | Windows
 
 
-🌱
-🔭
-🌐
