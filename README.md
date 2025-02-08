@@ -1,4 +1,4 @@
-<div style="background-color: #2CAAEC; padding: 20px; border-radius: 10px;">
+<div style="background-color: #2CAAEc; padding: 20px; border-radius: 10px;">
   <h1 align="center" style="color: #FFFFFF;">
     Hi there, I'm Bohdan 
     <img src="gif/giphy.gif" width="30px" alt="GIF">
