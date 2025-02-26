@@ -6,7 +6,6 @@
 </div>
 
 ## About Me
-
 - 🖥️ I’m a **Back-end Developer**.
 - ☕️ I specialize in building robust and scalable backend APIs using **Spring Boot** and JVM languages (**Java**, **Kotlin**).
 - 🐬 I work with both **SQL** (MySQL, PostgreSQL, H2) and **NoSQL** (MongoDB) databases.
@@ -33,8 +32,7 @@
 
 ---
 
-### My Backend Stack and Tools 👨‍💻:
-
+<h3 align="center">My Backend Stack and Tools 👨‍💻:</h3>
 <div align="center">
 <table>
   <tr>
@@ -116,8 +114,7 @@
 
 ---
 
-### My IDE and Auxiliary Programs 🔧:
-
+<h3 align="center">My IDE and Auxiliary Programs 🔧:</h3>
 <div align="center">
 <table>
   <tr>
@@ -179,8 +176,7 @@
 
 ---
 
-### My Frontend Stack and Tools 👨🏻‍💻:
-
+<h3 align="center">My Frontend Stack and Tools 👨🏻‍💻:</h3>
 <div align="center">
 <table>
   <tr>
