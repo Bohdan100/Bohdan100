@@ -75,10 +75,15 @@
     </td>
   </tr>
   <tr>
-<!-- GraphQL -->
+<!-- SQLite -->
     <td align="center" width="88">
-      <img src="icons-svg/additional-programs-ide/graphql-icon.svg" alt="GraphQL" width="30" height="30"/>
-      <br>GraphQL
+      <img src="icons-svg/backend/sqlite-icon.svg" alt="SQLite" width="30" height="30"/>
+      <br>SQLite
+    </td>
+ <!-- Firebase -->
+    <td align="center" width="88">
+      <img src="icons-svg/frontend/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+      <br>Firebase
     </td>
     <!-- MySQL -->
     <td align="center" width="88">
@@ -94,11 +99,6 @@
     <td align="center" width="88">
       <img src="icons-svg/backend/mongodb-icon.svg" alt="MongoDB" width="30" height="30"/>
       <br>MongoDB
-    </td>
-    <!-- Firebase -->
-    <td align="center" width="88">
-      <img src="icons-svg/frontend/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
-      <br>Firebase
     </td>
     <!-- Gradle -->
     <td align="center" width="88">
@@ -121,42 +121,57 @@
 <div align="center">
 <table>
   <tr>
-    <!-- IntelliJ IDEA -->
+  <!-- Android Studio -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/android-studio.svg" alt="Android Studio" width="35" height="35"/>
+      <br>Android Studio
+    </td>
+  <!-- IntelliJ IDEA -->
     <td align="center" width="88">
       <img src="icons-svg/additional-programs-ide/IntelliJ IDEA.svg" alt="IntelliJ IDEA" width="30" height="30"/>
       <br>IntelliJ IDEA
     </td>
-    <!-- VS Code -->
+  <!-- VS Code -->
     <td align="center" width="88">
       <img src="icons-svg/additional-programs-ide/VS Code.svg" alt="VS Code" width="30" height="30"/>
       <br>VS Code
     </td>
-    <!-- JUnit -->
-    <td align="center" width="88">
-      <img src="icons-svg/additional-programs-ide/JUnit.svg" alt="JUnit" width="30" height="30"/>
-      <br>JUnit
-    </td>
-    <!-- Jenkins, CI/CD -->
-    <td align="center" width="88">
-      <img src="icons-svg/additional-programs-ide/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/>
-      <br>Jenkins
-    </td>
-  </tr>
-  <tr>
-    <!-- Postman -->
-    <td align="center" width="88">
-      <img src="icons-svg/additional-programs-ide/postman-icon.svg" alt="Postman" width="30" height="30"/>
-      <br>Postman
-    </td>
-    <!-- Git -->
+  <!-- Git -->
     <td align="center" width="88">
       <img src="icons-svg/additional-programs-ide/git-icon.svg" alt="Git" width="30" height="30"/>
       <br>Git
     </td>
-    <!-- GitHub -->
+  <!-- GitHub -->
     <td align="center" width="88">
       <img src="icons-svg/additional-programs-ide/github.svg" alt="GitHub" width="30" height="30"/>
       <br>GitHub
+    </td>  
+  </tr>
+  <tr>
+  <!-- GraphQL -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/graphql-icon.svg" alt="GraphQL" width="30" height="30"/>
+      <br>GraphQL
+    </td>
+  <!-- Postman -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/postman-icon.svg" alt="Postman" width="30" height="30"/>
+      <br>Postman
+    </td>
+  <!-- JUnit -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/JUnit.svg" alt="JUnit" width="30" height="30"/>
+      <br>JUnit
+    </td>
+  <!-- Jenkins, CI/CD -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/>
+      <br>Jenkins
+    </td>
+  <!-- Docker -->
+    <td align="center" width="88">
+      <img src="icons-svg/additional-programs-ide/docker-icon.svg" alt="Docker" width="30" height="30"/>
+      <br>Docker
     </td>
   </tr>
 </table>
