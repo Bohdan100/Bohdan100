@@ -10,7 +10,7 @@
 - ☕️ I specialize in building robust and scalable backend APIs using **Spring Boot** and JVM languages (**Kotlin**, **Java**).
 - <img src="icons-svg/additional-programs-ide/android-studio-2.svg" alt="Android Studio" width="15"/>&nbsp;&nbsp;I develop **Android applications** using **Kotlin**, with experience in **Firebase** and 
 **SQLite** databases.
-- 🐬 I work with both **SQL** (MySQL, PostgreSQL, H2) and **NoSQL** (MongoDB) databases.
+- 🐬 I work with both **SQL** (MySQL, PostgreSQL, SQLite) and **NoSQL** (MongoDB) databases.
 - ⚙️ I use **GraphQL** schemas and the **GraphiQL** interface.
 - 👯 I’m interested in collaborating as a **Back-end Developer**.
 - 📧 **How to contact me:**
